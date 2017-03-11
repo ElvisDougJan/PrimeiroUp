@@ -66,6 +66,8 @@ public class ExecutarCadastro {
             System.out.println("O nome de usuário é " + c.getNome());
             System.out.println("O apelido de usuário é de " + c.getUsuario());
             System.out.println("A senha do usuário é " + c.getSenha() + "\n\n");
+         	System.out.println("\n-------Fim da execução-------");
+               
         }
     }
     }
